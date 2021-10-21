@@ -38,3 +38,8 @@ Pacote de ícones com bandeiras dos Estados do Brasil em estilo flat, normalizad
 #### Formato 'circle'
 
 ![Ícones formato circle](exemplos-circle.png)
+
+
+-------
+
+[Ícones de bandeiras de Estados do Brasil](https://github.com/pierrelapalu/icones-bandeiras-br-uf) by [Pierre Lapalu](https://pierrelapalu.com/) is marked with [CC0 1.0![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1)](http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1)
