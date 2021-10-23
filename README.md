@@ -2,7 +2,7 @@
 
 ## Brazil State Flags Icons
 
-Pacote de ícones com bandeiras dos Estados do Brasil em estilo flat, normalizados, com padronização de cores e tamanhos.
+Pacote de ícones com bandeiras dos Estados brasileiros em estilo flat, normalizados, com padronização de cores e tamanhos.
 
 ## Features
 
@@ -23,14 +23,6 @@ Pacote de ícones com bandeiras dos Estados do Brasil em estilo flat, normalizad
 
 ## Os ícones
 
-#### Formato 'full'
-
-![Ícones formato circle](exemplos-full.png)
-
-#### Formato 'square-rounded'
-
-![Ícones formato circle](exemplos-square-rounded.png)
-
 #### Formato 'rounded'
 
 ![Ícones formato circle](exemplos-rounded.png)
@@ -39,7 +31,10 @@ Pacote de ícones com bandeiras dos Estados do Brasil em estilo flat, normalizad
 
 ![Ícones formato circle](exemplos-circle.png)
 
+#### Formato 'square-rounded'
 
--------
+![Ícones formato circle](exemplos-square-rounded.png)
 
-[Ícones de bandeiras de Estados do Brasil](https://github.com/pierrelapalu/icones-bandeiras-br-uf) by [Pierre Lapalu](https://pierrelapalu.com/) is marked with [CC0 1.0![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1)](http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1)
+#### Formato 'full'
+
+![Ícones formato circle](exemplos-full.png)
