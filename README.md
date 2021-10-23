@@ -2,7 +2,7 @@
 
 ## Brazil State Flags Icons
 
-Pacote de ícones com bandeiras dos Estados do Brasil em estilo flat, normalizados, com padronização de cores e tamanhos.
+Pacote de ícones com bandeiras dos Estados brasileiros em estilo flat, normalizados, com padronização de cores e tamanhos.
 
 ## Features
 
