@@ -23,17 +23,20 @@ Pacote de ícones com bandeiras dos Estados brasileiros em estilo flat, normaliz
 
 ## Os ícones
 
-#### Formato 'rounded'
+#### Formato 'square-rounded'
 
-![Ícones formato circle](exemplos-rounded.png)
+![Ícones formato circle](exemplos-square-rounded.png)
+
 
 #### Formato 'circle'
 
 ![Ícones formato circle](exemplos-circle.png)
 
-#### Formato 'square-rounded'
 
-![Ícones formato circle](exemplos-square-rounded.png)
+#### Formato 'rounded'
+
+![Ícones formato circle](exemplos-rounded.png)
+
 
 #### Formato 'full'
 
